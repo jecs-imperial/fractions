@@ -1,7 +1,11 @@
 
 
-   fraction ::= expression "/" expression ;
+   fractionalExpression  ::=  expression "/" expression ;
 
-   expression ::= fraction ;
+
+   expression            ::=  fractionalExpression 
+
+
+                            ;
 
 
