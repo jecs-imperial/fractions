@@ -6,7 +6,7 @@ These are defined in the `expression.bnf` file simply as follows:
 ```
 fractionalExpression ::= expression "/" expression ;
 
-expression           ::= fractionalExpression
+expression           ::= fractionalExpression ;
 ```
 
 ## Notes
