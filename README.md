@@ -1,8 +1,7 @@
 # Fractions
 
-Fractional expressions for the [Occam](http://occam.science) proof assistant.
+Fractional expressions for [Occam](https://occam.science).
 
 ## Contact
 
-* james.smith@openmathematics.org
 * http://djalbat.com
